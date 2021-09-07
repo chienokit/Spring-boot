@@ -1,3 +1,2 @@
 # Spring-boot
-Viết API web service sử dụng Spring-boot
-Hoai xinh ga
+Viết API web service cho website tin tuc sử dụng Spring-boot
